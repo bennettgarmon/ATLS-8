@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
-/* || General setup llkjfakdjsfl */
+/* || General setup */
 
 html, body {
   margin: 0;
@@ -153,4 +153,3 @@ main {
   display: flex;
   flex-wrap: wrap;
 }
-
